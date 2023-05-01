@@ -1,0 +1,15 @@
+C:\wamp64\www\.Net\Section_10\Static\bin\Debug\net7.0\Static.exe
+C:\wamp64\www\.Net\Section_10\Static\bin\Debug\net7.0\Static.deps.json
+C:\wamp64\www\.Net\Section_10\Static\bin\Debug\net7.0\Static.runtimeconfig.json
+C:\wamp64\www\.Net\Section_10\Static\bin\Debug\net7.0\Static.dll
+C:\wamp64\www\.Net\Section_10\Static\bin\Debug\net7.0\Static.pdb
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.csproj.AssemblyReference.cache
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.AssemblyInfoInputs.cache
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.AssemblyInfo.cs
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.csproj.CoreCompileInputs.cache
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.dll
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\refint\Static.dll
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.pdb
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\Static.genruntimeconfig.cache
+C:\wamp64\www\.Net\Section_10\Static\obj\Debug\net7.0\ref\Static.dll

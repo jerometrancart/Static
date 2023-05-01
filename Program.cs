@@ -1,0 +1,12 @@
+﻿using Static;
+///JAMAIS DE MEMBRE OU DE PROP STATIQUE QUI SONT PUBLIC
+///EVITER AU MA LES METHODES STATIQUES (NON TESTABLES)
+///CONSERVER LE STATIQUE POUR LES OBJETS DE VERROUS MULTI THREAD (LOCK) OU POUR LA GESTION DES CACHES ET DES SINGLETONS
+
+new Class1().AjouterElement();
+new Class2().AjouterElement();
+
+foreach (var el in MonCache.GetValues())
+{
+    System.Console.WriteLine(el);
+}
